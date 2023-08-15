@@ -45,6 +45,7 @@ INSTALLED_APPS = [
 
     # Local
     'users',
+    'posts',
 
     # 3rd party
     'corsheaders',
